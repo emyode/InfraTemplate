@@ -3,7 +3,7 @@
 This repo contains: 
 
  - A powershell "search and replace script" to handle certain arm template values 
- - A Folder containing basir ARM templates to deploy basic (free) web apps and SQL databases
+ - A Folder containing basic ARM templates to deploy basic (free) web apps and SQL databases
  - A yml (yaml) template for a basic build profile, to package the latest scripts and ARM Templates to send off to the deployment pipelines
 
 And a "Infra Deploy Pipeline.json" file that contains an export of the release pipeline
