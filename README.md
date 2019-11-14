@@ -10,8 +10,8 @@ And a "Infra Deploy Pipeline.json" file that contains an export of the release p
 
 This Repo is meant to be used by **Infra/OPS** to autonomously deploy their infrastructure as code in the Azure Cloud infrastructure.
 
-It requires library (**globally** pipelined-shared variables) that define a client name, and a product name
-
+## IMPORTANT
+It requires a "library" (**globally** pipelined-shared variables) that define a client name, and a product name that must be linked in the deployment pipeline. And it must contain:
  - ClientID=Client Name 
  - ProductID=Product Name
  - sqladminUsername=The username for the SQL Server Database
