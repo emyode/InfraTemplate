@@ -1,0 +1,27 @@
+name: 1.0.1$(Rev:.r)
+
+pool:
+  name: Hosted VS2017
+  demands:
+  - msbuild
+  - visualstudio
+  - vstest
+
+steps:
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: 'Scripts'
+    Contents: '**'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)\Scripts'
+
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: 'Templates'
+    Contents: '**'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)\Templates'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'drop'
+        publishLocation: 'Container'
