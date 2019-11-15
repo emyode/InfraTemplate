@@ -1,888 +1,786 @@
 {
-   "source":2,
-   "revision":19,
-   "description":null,
-   "createdBy":{
-      "displayName":"jean-paul lizotte",
-      "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-      "_links":{
-         "avatar":{
-            "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-         }
+  "source": 2,
+  "revision": 6,
+  "description": null,
+  "createdBy": {
+    "displayName": "Jean-Paul Lizotte",
+    "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+    "_links": {
+      "avatar": {
+        "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+      }
+    },
+    "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+    "uniqueName": "jp.lizotte@drjpsoftware.com",
+    "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+    "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+  },
+  "createdOn": "2019-11-15T16:36:45.783Z",
+  "modifiedBy": {
+    "displayName": "Jean-Paul Lizotte",
+    "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+    "_links": {
+      "avatar": {
+        "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+      }
+    },
+    "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+    "uniqueName": "jp.lizotte@drjpsoftware.com",
+    "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+    "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+  },
+  "modifiedOn": "2019-11-15T18:22:56.080Z",
+  "isDeleted": false,
+  "lastRelease": {
+    "id": 5,
+    "name": "1.0.1.1-5",
+    "artifacts": [],
+    "_links": {},
+    "description": "",
+    "releaseDefinition": {
+      "id": 2,
+      "projectReference": null,
+      "_links": {}
+    },
+    "createdOn": "2019-11-15T18:09:21.357Z",
+    "createdBy": {
+      "displayName": "Jean-Paul Lizotte",
+      "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+      "_links": {
+        "avatar": {
+          "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+        }
       },
-      "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-      "uniqueName":"drjp81@gmail.com",
-      "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-      "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-   },
-   "createdOn":"2019-11-13T20:31:03.963Z",
-   "modifiedBy":{
-      "displayName":"jean-paul lizotte",
-      "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-      "_links":{
-         "avatar":{
-            "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-         }
+      "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+      "uniqueName": "jp.lizotte@drjpsoftware.com",
+      "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+      "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+    }
+  },
+  "variables": {},
+  "variableGroups": [
+    1
+  ],
+  "environments": [
+    {
+      "id": 2,
+      "name": "dev",
+      "rank": 1,
+      "owner": {
+        "displayName": "Jean-Paul Lizotte",
+        "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "_links": {
+          "avatar": {
+            "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+          }
+        },
+        "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "uniqueName": "jp.lizotte@drjpsoftware.com",
+        "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+        "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
       },
-      "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-      "uniqueName":"drjp81@gmail.com",
-      "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-      "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-   },
-   "modifiedOn":"2019-11-14T00:32:30.193Z",
-   "isDeleted":false,
-   "lastRelease":{
-      "id":6,
-      "name":"1.0.1.4-2",
-      "artifacts":[
-
+      "variables": {
+        "sqladminPass": {
+          "value": "DbUser123321!"
+        }
+      },
+      "variableGroups": [],
+      "preDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 4
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 1
+        }
+      },
+      "deployStep": {
+        "id": 9
+      },
+      "postDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 10
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 2
+        }
+      },
+      "deployPhases": [
+        {
+          "deploymentInput": {
+            "parallelExecution": {
+              "parallelExecutionType": 0
+            },
+            "agentSpecification": {
+              "identifier": "vs2017-win2016"
+            },
+            "skipArtifactsDownload": false,
+            "artifactsDownloadInput": {
+              "downloadInputs": []
+            },
+            "queueId": 19,
+            "demands": [],
+            "enableAccessToken": false,
+            "timeoutInMinutes": 0,
+            "jobCancelTimeoutInMinutes": 1,
+            "condition": "succeeded()",
+            "overrideInputs": {}
+          },
+          "rank": 1,
+          "phaseType": 1,
+          "name": "Agent job",
+          "refName": null,
+          "workflowTasks": [
+            {
+              "environment": {},
+              "taskId": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+              "version": "2.*",
+              "name": "PowerShell Script",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "targetType": "filePath",
+                "filePath": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Scripts/doparms.ps1",
+                "arguments": "-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
+                "script": "# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
+                "errorActionPreference": "stop",
+                "failOnStderr": "false",
+                "ignoreLASTEXITCODE": "false",
+                "pwsh": "false",
+                "workingDirectory": ""
+              }
+            },
+            {
+              "environment": {},
+              "taskId": "94a74903-f93f-4075-884f-dc11f34058b4",
+              "version": "2.*",
+              "name": "Azure Deployment:Create Or Update Resource Group action on VstsRG-testjpl08-880d",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "ConnectedServiceName": "85ab487a-f9d5-4706-b9ba-5cca36c6dde7",
+                "action": "Create Or Update Resource Group",
+                "resourceGroupName": "VstsRG-testjpl08-880d",
+                "location": "Canada Central",
+                "templateLocation": "Linked artifact",
+                "csmFileLink": "",
+                "csmParametersFileLink": "",
+                "csmFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.json",
+                "csmParametersFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.parameters.json",
+                "overrideParameters": "-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
+                "deploymentMode": "Incremental",
+                "enableDeploymentPrerequisites": "None",
+                "deploymentGroupEndpoint": "",
+                "project": "",
+                "deploymentGroupName": "",
+                "copyAzureVMTags": "true",
+                "runAgentServiceAsUser": "false",
+                "userName": "",
+                "password": "",
+                "outputVariable": "",
+                "deploymentName": "",
+                "deploymentOutputs": "",
+                "addSpnToEnvironment": "false"
+              }
+            }
+          ]
+        }
       ],
-      "_links":{
-
+      "environmentOptions": {
+        "emailNotificationType": "OnlyOnFailure",
+        "emailRecipients": "release.environment.owner;release.creator",
+        "skipArtifactsDownload": false,
+        "timeoutInMinutes": 0,
+        "enableAccessToken": false,
+        "publishDeploymentStatus": true,
+        "badgeEnabled": false,
+        "autoLinkWorkItems": true,
+        "pullRequestDeploymentEnabled": false
       },
-      "description":"",
-      "releaseDefinition":{
-         "id":1,
-         "projectReference":null,
-         "_links":{
-
-         }
+      "demands": [],
+      "conditions": [
+        {
+          "name": "ReleaseStarted",
+          "conditionType": 1,
+          "value": ""
+        }
+      ],
+      "executionPolicy": {
+        "concurrencyCount": 1,
+        "queueDepthCount": 0
       },
-      "createdOn":"2019-11-14T00:21:38.627Z",
-      "createdBy":{
-         "displayName":"jean-paul lizotte",
-         "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-         "_links":{
-            "avatar":{
-               "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-            }
-         },
-         "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-         "uniqueName":"drjp81@gmail.com",
-         "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-         "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-      }
-   },
-   "variables":{
-
-   },
-   "variableGroups":[
-      1
-   ],
-   "environments":[
-      {
-         "id":1,
-         "name":"dev",
-         "rank":1,
-         "owner":{
-            "displayName":"jean-paul lizotte",
-            "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "_links":{
-               "avatar":{
-                  "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-               }
+      "schedules": [],
+      "currentRelease": {
+        "id": 5,
+        "url": "https://drjpsoftware.vsrm.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_apis/Release/releases/5",
+        "_links": {}
+      },
+      "retentionPolicy": {
+        "daysToKeep": 30,
+        "releasesToKeep": 3,
+        "retainBuild": true
+      },
+      "processParameters": {},
+      "properties": {
+        "BoardsEnvironmentType": {
+          "$type": "System.String",
+          "$value": "development"
+        },
+        "LinkBoardsWorkItems": {
+          "$type": "System.String",
+          "$value": "False"
+        }
+      },
+      "preDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "postDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "environmentTriggers": [],
+      "badgeUrl": "https://drjpsoftware.vsrm.visualstudio.com/_apis/public/Release/badge/efd853c8-1584-46ac-8099-756cf366ce35/2/2"
+    },
+    {
+      "id": 5,
+      "name": "uat",
+      "rank": 2,
+      "owner": {
+        "displayName": "Jean-Paul Lizotte",
+        "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "_links": {
+          "avatar": {
+            "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+          }
+        },
+        "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "uniqueName": "jp.lizotte@drjpsoftware.com",
+        "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+        "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+      },
+      "variables": {
+        "sqladminPass": {
+          "value": "DbUser123321!"
+        }
+      },
+      "variableGroups": [],
+      "preDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 13
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 1
+        }
+      },
+      "deployStep": {
+        "id": 16
+      },
+      "postDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 17
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 2
+        }
+      },
+      "deployPhases": [
+        {
+          "deploymentInput": {
+            "parallelExecution": {
+              "parallelExecutionType": 0
             },
-            "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "uniqueName":"drjp81@gmail.com",
-            "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-            "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-         },
-         "variables":{
-            "sqladminPass":{
-               "value":"DbUser123321!"
-            }
-         },
-         "variableGroups":[
-
-         ],
-         "preDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":1
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":1
-            }
-         },
-         "deployStep":{
-            "id":2
-         },
-         "postDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":3
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":2
-            }
-         },
-         "deployPhases":[
+            "agentSpecification": {
+              "identifier": "vs2017-win2016"
+            },
+            "skipArtifactsDownload": false,
+            "artifactsDownloadInput": {
+              "downloadInputs": []
+            },
+            "queueId": 19,
+            "demands": [],
+            "enableAccessToken": false,
+            "timeoutInMinutes": 0,
+            "jobCancelTimeoutInMinutes": 1,
+            "condition": "succeeded()",
+            "overrideInputs": {}
+          },
+          "rank": 1,
+          "phaseType": 1,
+          "name": "Agent job",
+          "refName": null,
+          "workflowTasks": [
             {
-               "deploymentInput":{
-                  "parallelExecution":{
-                     "parallelExecutionType":0
-                  },
-                  "agentSpecification":{
-                     "identifier":"vs2017-win2016"
-                  },
-                  "skipArtifactsDownload":false,
-                  "artifactsDownloadInput":{
-                     "downloadInputs":[
-
-                     ]
-                  },
-                  "queueId":48,
-                  "demands":[
-
-                  ],
-                  "enableAccessToken":false,
-                  "timeoutInMinutes":0,
-                  "jobCancelTimeoutInMinutes":1,
-                  "condition":"succeeded()",
-                  "overrideInputs":{
-
-                  }
-               },
-               "rank":1,
-               "phaseType":1,
-               "name":"Agent job",
-               "refName":null,
-               "workflowTasks":[
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                     "version":"2.*",
-                     "name":"PowerShell Script",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "targetType":"filePath",
-                        "filePath":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Scripts/doparms.ps1",
-                        "arguments":"-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
-                        "script":"# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
-                        "errorActionPreference":"stop",
-                        "failOnStderr":"false",
-                        "ignoreLASTEXITCODE":"false",
-                        "pwsh":"false",
-                        "workingDirectory":""
-                     }
-                  },
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"94a74903-f93f-4075-884f-dc11f34058b4",
-                     "version":"2.*",
-                     "name":"Azure Deployment:Create Or Update Resource Group action on rg_test_wl",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "ConnectedServiceName":"ace691e3-ef44-47a2-8f14-413680687fd8",
-                        "action":"Create Or Update Resource Group",
-                        "resourceGroupName":"rg_test_wl",
-                        "location":"Central US",
-                        "templateLocation":"Linked artifact",
-                        "csmFileLink":"",
-                        "csmParametersFileLink":"",
-                        "csmFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.json",
-                        "csmParametersFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.parameters.json",
-                        "overrideParameters":"-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
-                        "deploymentMode":"Incremental",
-                        "enableDeploymentPrerequisites":"None",
-                        "deploymentGroupEndpoint":"",
-                        "project":"",
-                        "deploymentGroupName":"",
-                        "copyAzureVMTags":"true",
-                        "runAgentServiceAsUser":"false",
-                        "userName":"",
-                        "password":"",
-                        "outputVariable":"",
-                        "deploymentName":"",
-                        "deploymentOutputs":"",
-                        "addSpnToEnvironment":"false"
-                     }
-                  }
-               ]
-            }
-         ],
-         "environmentOptions":{
-            "emailNotificationType":"OnlyOnFailure",
-            "emailRecipients":"release.environment.owner;release.creator",
-            "skipArtifactsDownload":false,
-            "timeoutInMinutes":0,
-            "enableAccessToken":false,
-            "publishDeploymentStatus":true,
-            "badgeEnabled":false,
-            "autoLinkWorkItems":true,
-            "pullRequestDeploymentEnabled":false
-         },
-         "demands":[
-
-         ],
-         "conditions":[
+              "environment": {},
+              "taskId": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+              "version": "2.*",
+              "name": "PowerShell Script",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "targetType": "filePath",
+                "filePath": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Scripts/doparms.ps1",
+                "arguments": "-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
+                "script": "# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
+                "errorActionPreference": "stop",
+                "failOnStderr": "false",
+                "ignoreLASTEXITCODE": "false",
+                "pwsh": "false",
+                "workingDirectory": ""
+              }
+            },
             {
-               "name":"ReleaseStarted",
-               "conditionType":1,
-               "value":""
+              "environment": {},
+              "taskId": "94a74903-f93f-4075-884f-dc11f34058b4",
+              "version": "2.*",
+              "name": "Azure Deployment:Create Or Update Resource Group action on VstsRG-testjpl08-880d",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "ConnectedServiceName": "85ab487a-f9d5-4706-b9ba-5cca36c6dde7",
+                "action": "Create Or Update Resource Group",
+                "resourceGroupName": "VstsRG-testjpl08-880d",
+                "location": "Canada Central",
+                "templateLocation": "Linked artifact",
+                "csmFileLink": "",
+                "csmParametersFileLink": "",
+                "csmFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.json",
+                "csmParametersFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.parameters.json",
+                "overrideParameters": "-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
+                "deploymentMode": "Incremental",
+                "enableDeploymentPrerequisites": "None",
+                "deploymentGroupEndpoint": "",
+                "project": "",
+                "deploymentGroupName": "",
+                "copyAzureVMTags": "true",
+                "runAgentServiceAsUser": "false",
+                "userName": "",
+                "password": "",
+                "outputVariable": "",
+                "deploymentName": "",
+                "deploymentOutputs": "",
+                "addSpnToEnvironment": "false"
+              }
             }
-         ],
-         "executionPolicy":{
-            "concurrencyCount":1,
-            "queueDepthCount":0
-         },
-         "schedules":[
-
-         ],
-         "currentRelease":{
-            "id":6,
-            "url":"https://emyodelabs.vsrm.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_apis/Release/releases/6",
-            "_links":{
-
-            }
-         },
-         "retentionPolicy":{
-            "daysToKeep":30,
-            "releasesToKeep":3,
-            "retainBuild":true
-         },
-         "processParameters":{
-
-         },
-         "properties":{
-            "BoardsEnvironmentType":{
-               "$type":"System.String",
-               "$value":"development"
-            },
-            "LinkBoardsWorkItems":{
-               "$type":"System.String",
-               "$value":"True"
-            }
-         },
-         "preDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "postDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "environmentTriggers":[
-
-         ],
-         "badgeUrl":"https://emyodelabs.vsrm.visualstudio.com/_apis/public/Release/badge/ea77519d-4eaa-4281-9aab-d4102b1eef7d/1/1"
+          ]
+        }
+      ],
+      "environmentOptions": {
+        "emailNotificationType": "OnlyOnFailure",
+        "emailRecipients": "release.environment.owner;release.creator",
+        "skipArtifactsDownload": false,
+        "timeoutInMinutes": 0,
+        "enableAccessToken": false,
+        "publishDeploymentStatus": true,
+        "badgeEnabled": false,
+        "autoLinkWorkItems": true,
+        "pullRequestDeploymentEnabled": false
       },
-      {
-         "id":5,
-         "name":"uat",
-         "rank":2,
-         "owner":{
-            "displayName":"jean-paul lizotte",
-            "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "_links":{
-               "avatar":{
-                  "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-               }
+      "demands": [],
+      "conditions": [
+        {
+          "name": "dev",
+          "conditionType": 2,
+          "value": "4"
+        }
+      ],
+      "executionPolicy": {
+        "concurrencyCount": 1,
+        "queueDepthCount": 0
+      },
+      "schedules": [],
+      "currentRelease": {
+        "id": 0,
+        "url": "https://drjpsoftware.vsrm.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_apis/Release/releases/0",
+        "_links": {}
+      },
+      "retentionPolicy": {
+        "daysToKeep": 30,
+        "releasesToKeep": 3,
+        "retainBuild": true
+      },
+      "processParameters": {},
+      "properties": {
+        "BoardsEnvironmentType": {
+          "$type": "System.String",
+          "$value": "unmapped"
+        },
+        "LinkBoardsWorkItems": {
+          "$type": "System.String",
+          "$value": "False"
+        }
+      },
+      "preDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "postDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "environmentTriggers": [],
+      "badgeUrl": "https://drjpsoftware.vsrm.visualstudio.com/_apis/public/Release/badge/efd853c8-1584-46ac-8099-756cf366ce35/2/5"
+    },
+    {
+      "id": 6,
+      "name": "prod",
+      "rank": 3,
+      "owner": {
+        "displayName": "Jean-Paul Lizotte",
+        "url": "https://spsprodcca1.vssps.visualstudio.com/Af53178b9-41c9-4ab7-95f7-ee786827cfcc/_apis/Identities/028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "_links": {
+          "avatar": {
+            "href": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+          }
+        },
+        "id": "028ec33e-6f17-64c1-89e8-e539b6e50023",
+        "uniqueName": "jp.lizotte@drjpsoftware.com",
+        "imageUrl": "https://drjpsoftware.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz",
+        "descriptor": "msa.MDI4ZWMzM2UtNmYxNy03NGMxLTg5ZTgtZTUzOWI2ZTUwMDIz"
+      },
+      "variables": {
+        "sqladminPass": {
+          "value": "DbUser123321!"
+        }
+      },
+      "variableGroups": [],
+      "preDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 14
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 1
+        }
+      },
+      "deployStep": {
+        "id": 15
+      },
+      "postDeployApprovals": {
+        "approvals": [
+          {
+            "rank": 1,
+            "isAutomated": true,
+            "isNotificationOn": false,
+            "id": 18
+          }
+        ],
+        "approvalOptions": {
+          "requiredApproverCount": null,
+          "releaseCreatorCanBeApprover": false,
+          "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped": false,
+          "enforceIdentityRevalidation": false,
+          "timeoutInMinutes": 0,
+          "executionOrder": 2
+        }
+      },
+      "deployPhases": [
+        {
+          "deploymentInput": {
+            "parallelExecution": {
+              "parallelExecutionType": 0
             },
-            "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "uniqueName":"drjp81@gmail.com",
-            "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-            "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-         },
-         "variables":{
-            "sqladminPass":{
-               "value":"DbUser123321!"
-            }
-         },
-         "variableGroups":[
-
-         ],
-         "preDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":13
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":1
-            }
-         },
-         "deployStep":{
-            "id":14
-         },
-         "postDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":15
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":2
-            }
-         },
-         "deployPhases":[
+            "agentSpecification": {
+              "identifier": "vs2017-win2016"
+            },
+            "skipArtifactsDownload": false,
+            "artifactsDownloadInput": {
+              "downloadInputs": []
+            },
+            "queueId": 19,
+            "demands": [],
+            "enableAccessToken": false,
+            "timeoutInMinutes": 0,
+            "jobCancelTimeoutInMinutes": 1,
+            "condition": "succeeded()",
+            "overrideInputs": {}
+          },
+          "rank": 1,
+          "phaseType": 1,
+          "name": "Agent job",
+          "refName": null,
+          "workflowTasks": [
             {
-               "deploymentInput":{
-                  "parallelExecution":{
-                     "parallelExecutionType":0
-                  },
-                  "agentSpecification":{
-                     "identifier":"vs2017-win2016"
-                  },
-                  "skipArtifactsDownload":false,
-                  "artifactsDownloadInput":{
-                     "downloadInputs":[
-
-                     ]
-                  },
-                  "queueId":48,
-                  "demands":[
-
-                  ],
-                  "enableAccessToken":false,
-                  "timeoutInMinutes":0,
-                  "jobCancelTimeoutInMinutes":1,
-                  "condition":"succeeded()",
-                  "overrideInputs":{
-
-                  }
-               },
-               "rank":1,
-               "phaseType":1,
-               "name":"Agent job",
-               "refName":null,
-               "workflowTasks":[
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                     "version":"2.*",
-                     "name":"PowerShell Script",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "targetType":"filePath",
-                        "filePath":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Scripts/doparms.ps1",
-                        "arguments":"-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
-                        "script":"# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
-                        "errorActionPreference":"stop",
-                        "failOnStderr":"false",
-                        "ignoreLASTEXITCODE":"false",
-                        "pwsh":"false",
-                        "workingDirectory":""
-                     }
-                  },
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"94a74903-f93f-4075-884f-dc11f34058b4",
-                     "version":"2.*",
-                     "name":"Azure Deployment:Create Or Update Resource Group action on rg_test_wl",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "ConnectedServiceName":"ace691e3-ef44-47a2-8f14-413680687fd8",
-                        "action":"Create Or Update Resource Group",
-                        "resourceGroupName":"rg_test_wl",
-                        "location":"Central US",
-                        "templateLocation":"Linked artifact",
-                        "csmFileLink":"",
-                        "csmParametersFileLink":"",
-                        "csmFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.json",
-                        "csmParametersFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.parameters.json",
-                        "overrideParameters":"-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
-                        "deploymentMode":"Incremental",
-                        "enableDeploymentPrerequisites":"None",
-                        "deploymentGroupEndpoint":"",
-                        "project":"",
-                        "deploymentGroupName":"",
-                        "copyAzureVMTags":"true",
-                        "runAgentServiceAsUser":"false",
-                        "userName":"",
-                        "password":"",
-                        "outputVariable":"",
-                        "deploymentName":"",
-                        "deploymentOutputs":"",
-                        "addSpnToEnvironment":"false"
-                     }
-                  }
-               ]
-            }
-         ],
-         "environmentOptions":{
-            "emailNotificationType":"OnlyOnFailure",
-            "emailRecipients":"release.environment.owner;release.creator",
-            "skipArtifactsDownload":false,
-            "timeoutInMinutes":0,
-            "enableAccessToken":false,
-            "publishDeploymentStatus":true,
-            "badgeEnabled":false,
-            "autoLinkWorkItems":true,
-            "pullRequestDeploymentEnabled":false
-         },
-         "demands":[
-
-         ],
-         "conditions":[
+              "environment": {},
+              "taskId": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+              "version": "2.*",
+              "name": "PowerShell Script",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "targetType": "filePath",
+                "filePath": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Scripts/doparms.ps1",
+                "arguments": "-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
+                "script": "# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
+                "errorActionPreference": "stop",
+                "failOnStderr": "false",
+                "ignoreLASTEXITCODE": "false",
+                "pwsh": "false",
+                "workingDirectory": ""
+              }
+            },
             {
-               "name":"dev",
-               "conditionType":2,
-               "value":"4"
+              "environment": {},
+              "taskId": "94a74903-f93f-4075-884f-dc11f34058b4",
+              "version": "2.*",
+              "name": "Azure Deployment:Create Or Update Resource Group action on VstsRG-testjpl08-880d",
+              "refName": "",
+              "enabled": true,
+              "alwaysRun": false,
+              "continueOnError": false,
+              "timeoutInMinutes": 0,
+              "definitionType": "task",
+              "overrideInputs": {},
+              "condition": "succeeded()",
+              "inputs": {
+                "ConnectedServiceName": "85ab487a-f9d5-4706-b9ba-5cca36c6dde7",
+                "action": "Create Or Update Resource Group",
+                "resourceGroupName": "VstsRG-testjpl08-880d",
+                "location": "Canada Central",
+                "templateLocation": "Linked artifact",
+                "csmFileLink": "",
+                "csmParametersFileLink": "",
+                "csmFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.json",
+                "csmParametersFile": "$(System.DefaultWorkingDirectory)/$(Release.PrimaryArtifactSourceAlias)/drop/Templates/azuredeploy.parameters.json",
+                "overrideParameters": "-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
+                "deploymentMode": "Incremental",
+                "enableDeploymentPrerequisites": "None",
+                "deploymentGroupEndpoint": "",
+                "project": "",
+                "deploymentGroupName": "",
+                "copyAzureVMTags": "true",
+                "runAgentServiceAsUser": "false",
+                "userName": "",
+                "password": "",
+                "outputVariable": "",
+                "deploymentName": "",
+                "deploymentOutputs": "",
+                "addSpnToEnvironment": "false"
+              }
             }
-         ],
-         "executionPolicy":{
-            "concurrencyCount":1,
-            "queueDepthCount":0
-         },
-         "schedules":[
-
-         ],
-         "currentRelease":{
-            "id":6,
-            "url":"https://emyodelabs.vsrm.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_apis/Release/releases/6",
-            "_links":{
-
-            }
-         },
-         "retentionPolicy":{
-            "daysToKeep":30,
-            "releasesToKeep":3,
-            "retainBuild":true
-         },
-         "processParameters":{
-
-         },
-         "properties":{
-            "BoardsEnvironmentType":{
-               "$type":"System.String",
-               "$value":"staging"
-            },
-            "LinkBoardsWorkItems":{
-               "$type":"System.String",
-               "$value":"True"
-            }
-         },
-         "preDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "postDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "environmentTriggers":[
-
-         ],
-         "badgeUrl":"https://emyodelabs.vsrm.visualstudio.com/_apis/public/Release/badge/ea77519d-4eaa-4281-9aab-d4102b1eef7d/1/5"
+          ]
+        }
+      ],
+      "environmentOptions": {
+        "emailNotificationType": "OnlyOnFailure",
+        "emailRecipients": "release.environment.owner;release.creator",
+        "skipArtifactsDownload": false,
+        "timeoutInMinutes": 0,
+        "enableAccessToken": false,
+        "publishDeploymentStatus": true,
+        "badgeEnabled": false,
+        "autoLinkWorkItems": true,
+        "pullRequestDeploymentEnabled": false
       },
-      {
-         "id":6,
-         "name":"prod",
-         "rank":3,
-         "owner":{
-            "displayName":"jean-paul lizotte",
-            "url":"https://spsprodcca1.vssps.visualstudio.com/A7ede4f6f-5387-4ced-8f67-0f39474e2b01/_apis/Identities/c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "_links":{
-               "avatar":{
-                  "href":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-               }
-            },
-            "id":"c4144d9b-23d8-651a-bd07-bd1dfa33fb8c",
-            "uniqueName":"drjp81@gmail.com",
-            "imageUrl":"https://emyodelabs.visualstudio.com/_apis/GraphProfile/MemberAvatars/msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj",
-            "descriptor":"msa.YzQxNDRkOWItMjNkOC03NTFhLWJkMDctYmQxZGZhMzNmYjhj"
-         },
-         "variables":{
-            "sqladminPass":{
-               "value":"DbUser123321!"
-            }
-         },
-         "variableGroups":[
-
-         ],
-         "preDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":16
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":1
-            }
-         },
-         "deployStep":{
-            "id":17
-         },
-         "postDeployApprovals":{
-            "approvals":[
-               {
-                  "rank":1,
-                  "isAutomated":true,
-                  "isNotificationOn":false,
-                  "id":18
-               }
-            ],
-            "approvalOptions":{
-               "requiredApproverCount":null,
-               "releaseCreatorCanBeApprover":false,
-               "autoTriggeredAndPreviousEnvironmentApprovedCanBeSkipped":false,
-               "enforceIdentityRevalidation":false,
-               "timeoutInMinutes":0,
-               "executionOrder":2
-            }
-         },
-         "deployPhases":[
-            {
-               "deploymentInput":{
-                  "parallelExecution":{
-                     "parallelExecutionType":0
-                  },
-                  "agentSpecification":{
-                     "identifier":"vs2017-win2016"
-                  },
-                  "skipArtifactsDownload":false,
-                  "artifactsDownloadInput":{
-                     "downloadInputs":[
-
-                     ]
-                  },
-                  "queueId":48,
-                  "demands":[
-
-                  ],
-                  "enableAccessToken":false,
-                  "timeoutInMinutes":0,
-                  "jobCancelTimeoutInMinutes":1,
-                  "condition":"succeeded()",
-                  "overrideInputs":{
-
-                  }
-               },
-               "rank":1,
-               "phaseType":1,
-               "name":"Agent job",
-               "refName":null,
-               "workflowTasks":[
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                     "version":"2.*",
-                     "name":"PowerShell Script",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "targetType":"filePath",
-                        "filePath":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Scripts/doparms.ps1",
-                        "arguments":"-environement $(Release.EnvironmentName) -product $(ProductID) -client $(ClientID)",
-                        "script":"# Write your PowerShell commands here.\n\nWrite-Host \"Hello World\"\n",
-                        "errorActionPreference":"stop",
-                        "failOnStderr":"false",
-                        "ignoreLASTEXITCODE":"false",
-                        "pwsh":"false",
-                        "workingDirectory":""
-                     }
-                  },
-                  {
-                     "environment":{
-
-                     },
-                     "taskId":"94a74903-f93f-4075-884f-dc11f34058b4",
-                     "version":"2.*",
-                     "name":"Azure Deployment:Create Or Update Resource Group action on rg_test_wl",
-                     "refName":"",
-                     "enabled":true,
-                     "alwaysRun":false,
-                     "continueOnError":false,
-                     "timeoutInMinutes":0,
-                     "definitionType":"task",
-                     "overrideInputs":{
-
-                     },
-                     "condition":"succeeded()",
-                     "inputs":{
-                        "ConnectedServiceName":"ace691e3-ef44-47a2-8f14-413680687fd8",
-                        "action":"Create Or Update Resource Group",
-                        "resourceGroupName":"rg_test_wl",
-                        "location":"Central US",
-                        "templateLocation":"Linked artifact",
-                        "csmFileLink":"",
-                        "csmParametersFileLink":"",
-                        "csmFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.json",
-                        "csmParametersFile":"$(System.DefaultWorkingDirectory)/_GitInfraRepo/drop/Templates/azuredeploy.parameters.json",
-                        "overrideParameters":"-skuName \"F1\" -skuCapacity 1 -sqlAdministratorLogin \"sqladmin\" -sqlAdministratorLoginPassword $(sqladminPass) -location \"Central US\"",
-                        "deploymentMode":"Incremental",
-                        "enableDeploymentPrerequisites":"None",
-                        "deploymentGroupEndpoint":"",
-                        "project":"",
-                        "deploymentGroupName":"",
-                        "copyAzureVMTags":"true",
-                        "runAgentServiceAsUser":"false",
-                        "userName":"",
-                        "password":"",
-                        "outputVariable":"",
-                        "deploymentName":"",
-                        "deploymentOutputs":"",
-                        "addSpnToEnvironment":"false"
-                     }
-                  }
-               ]
-            }
-         ],
-         "environmentOptions":{
-            "emailNotificationType":"OnlyOnFailure",
-            "emailRecipients":"release.environment.owner;release.creator",
-            "skipArtifactsDownload":false,
-            "timeoutInMinutes":0,
-            "enableAccessToken":false,
-            "publishDeploymentStatus":true,
-            "badgeEnabled":false,
-            "autoLinkWorkItems":true,
-            "pullRequestDeploymentEnabled":false
-         },
-         "demands":[
-
-         ],
-         "conditions":[
-            {
-               "name":"uat",
-               "conditionType":2,
-               "value":"4"
-            }
-         ],
-         "executionPolicy":{
-            "concurrencyCount":1,
-            "queueDepthCount":0
-         },
-         "schedules":[
-
-         ],
-         "currentRelease":{
-            "id":6,
-            "url":"https://emyodelabs.vsrm.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_apis/Release/releases/6",
-            "_links":{
-
-            }
-         },
-         "retentionPolicy":{
-            "daysToKeep":30,
-            "releasesToKeep":3,
-            "retainBuild":true
-         },
-         "processParameters":{
-
-         },
-         "properties":{
-            "BoardsEnvironmentType":{
-               "$type":"System.String",
-               "$value":"production"
-            },
-            "LinkBoardsWorkItems":{
-               "$type":"System.String",
-               "$value":"True"
-            }
-         },
-         "preDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "postDeploymentGates":{
-            "id":0,
-            "gatesOptions":null,
-            "gates":[
-
-            ]
-         },
-         "environmentTriggers":[
-
-         ],
-         "badgeUrl":"https://emyodelabs.vsrm.visualstudio.com/_apis/public/Release/badge/ea77519d-4eaa-4281-9aab-d4102b1eef7d/1/6"
-      }
-   ],
-   "artifacts":[
-      {
-         "sourceId":"ea77519d-4eaa-4281-9aab-d4102b1eef7d:14",
-         "type":"Build",
-         "alias":"_GitInfraRepo",
-         "definitionReference":{
-            "artifactSourceDefinitionUrl":{
-               "id":"https://emyodelabs.visualstudio.com/_permalink/_build/index?collectionId=dc1bbf42-3986-4cdb-b5a7-f7f59bac916e&projectId=ea77519d-4eaa-4281-9aab-d4102b1eef7d&definitionId=14",
-               "name":""
-            },
-            "defaultVersionBranch":{
-               "id":"",
-               "name":""
-            },
-            "defaultVersionSpecific":{
-               "id":"",
-               "name":""
-            },
-            "defaultVersionTags":{
-               "id":"",
-               "name":""
-            },
-            "defaultVersionType":{
-               "id":"latestType",
-               "name":"Latest"
-            },
-            "definition":{
-               "id":"14",
-               "name":"GitInfraRepo"
-            },
-            "definitions":{
-               "id":"",
-               "name":""
-            },
-            "IsMultiDefinitionType":{
-               "id":"False",
-               "name":"False"
-            },
-            "project":{
-               "id":"ea77519d-4eaa-4281-9aab-d4102b1eef7d",
-               "name":"TestProject"
-            },
-            "repository":{
-               "id":"",
-               "name":""
-            }
-         },
-         "isPrimary":true,
-         "isRetained":false
-      }
-   ],
-   "triggers":[
-
-   ],
-   "releaseNameFormat":"$(Build.BuildNumber)-$(rev:r)",
-   "tags":[
-
-   ],
-   "properties":{
-      "DefinitionCreationSource":{
-         "$type":"System.String",
-         "$value":"ReleaseNew"
+      "demands": [],
+      "conditions": [
+        {
+          "name": "uat",
+          "conditionType": 2,
+          "value": "4"
+        }
+      ],
+      "executionPolicy": {
+        "concurrencyCount": 1,
+        "queueDepthCount": 0
       },
-      "IntegrateBoardsWorkItems":{
-         "$type":"System.String",
-         "$value":"True"
+      "schedules": [],
+      "currentRelease": {
+        "id": 0,
+        "url": "https://drjpsoftware.vsrm.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_apis/Release/releases/0",
+        "_links": {}
       },
-      "IntegrateJiraWorkItems":{
-         "$type":"System.String",
-         "$value":"false"
-      }
-   },
-   "id":1,
-   "name":"Infra Deploy Pipeline",
-   "path":"\\",
-   "projectReference":null,
-   "url":"https://emyodelabs.vsrm.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_apis/Release/definitions/1",
-   "_links":{
-      "self":{
-         "href":"https://emyodelabs.vsrm.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_apis/Release/definitions/1"
+      "retentionPolicy": {
+        "daysToKeep": 30,
+        "releasesToKeep": 3,
+        "retainBuild": true
       },
-      "web":{
-         "href":"https://emyodelabs.visualstudio.com/ea77519d-4eaa-4281-9aab-d4102b1eef7d/_release?definitionId=1"
-      }
-   }
+      "processParameters": {},
+      "properties": {
+        "BoardsEnvironmentType": {
+          "$type": "System.String",
+          "$value": "unmapped"
+        },
+        "LinkBoardsWorkItems": {
+          "$type": "System.String",
+          "$value": "False"
+        }
+      },
+      "preDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "postDeploymentGates": {
+        "id": 0,
+        "gatesOptions": null,
+        "gates": []
+      },
+      "environmentTriggers": [],
+      "badgeUrl": "https://drjpsoftware.vsrm.visualstudio.com/_apis/public/Release/badge/efd853c8-1584-46ac-8099-756cf366ce35/2/6"
+    }
+  ],
+  "artifacts": [
+    {
+      "sourceId": "efd853c8-1584-46ac-8099-756cf366ce35:2",
+      "type": "Build",
+      "alias": "_OPS",
+      "definitionReference": {
+        "artifactSourceDefinitionUrl": {
+          "id": "https://drjpsoftware.visualstudio.com/_permalink/_build/index?collectionId=a1a6801b-60c9-45f7-9bb8-af27fd1264c1&projectId=efd853c8-1584-46ac-8099-756cf366ce35&definitionId=2",
+          "name": ""
+        },
+        "defaultVersionBranch": {
+          "id": "",
+          "name": ""
+        },
+        "defaultVersionSpecific": {
+          "id": "",
+          "name": ""
+        },
+        "defaultVersionTags": {
+          "id": "",
+          "name": ""
+        },
+        "defaultVersionType": {
+          "id": "latestType",
+          "name": "Latest"
+        },
+        "definition": {
+          "id": "2",
+          "name": "OPS"
+        },
+        "definitions": {
+          "id": "",
+          "name": ""
+        },
+        "IsMultiDefinitionType": {
+          "id": "False",
+          "name": "False"
+        },
+        "project": {
+          "id": "efd853c8-1584-46ac-8099-756cf366ce35",
+          "name": "labs"
+        },
+        "repository": {
+          "id": "",
+          "name": ""
+        }
+      },
+      "isPrimary": true,
+      "isRetained": false
+    }
+  ],
+  "triggers": [],
+  "releaseNameFormat": "$(Build.BuildNumber)-$(rev:r)",
+  "tags": [],
+  "properties": {
+    "DefinitionCreationSource": {
+      "$type": "System.String",
+      "$value": "ReleaseImport"
+    },
+    "IntegrateBoardsWorkItems": {
+      "$type": "System.String",
+      "$value": "False"
+    },
+    "IntegrateJiraWorkItems": {
+      "$type": "System.String",
+      "$value": "false"
+    }
+  },
+  "id": 2,
+  "name": "Infra Deploy Pipeline - Copy",
+  "path": "\\",
+  "projectReference": null,
+  "url": "https://drjpsoftware.vsrm.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_apis/Release/definitions/2",
+  "_links": {
+    "self": {
+      "href": "https://drjpsoftware.vsrm.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_apis/Release/definitions/2"
+    },
+    "web": {
+      "href": "https://drjpsoftware.visualstudio.com/efd853c8-1584-46ac-8099-756cf366ce35/_release?definitionId=2"
+    }
+  }
 }
