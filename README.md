@@ -21,3 +21,14 @@ i.e.: sqladminPass
 It is important not to use spaces in the names, nor underscores (hyphens are okay)
 
 This should include everything required to rapidly set up a deployment pipeline for a new project.
+
+## Instructions
+
+**Usage** 
+1. Download the whole repo (as a zip from the clone menu)
+2. Create an Azure Devops project
+3. Create a "OPS" Repo in your Azure Devops Project
+4. Unzip locally to your computer
+5. Upload the whole repo to your "OPS" Azure Devops project
+
+
