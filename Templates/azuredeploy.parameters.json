@@ -5,8 +5,20 @@
     "sqlAdministratorLogin": {
       "value": "sqladmin"
     },
-    "sqlAdministratorLoginPassword": {		
-      "value": "Changemenow!123"		
-    }		
+    "sqlAdministratorLoginPassword": {
+      "value": "Changemenow!123"
+    },
+    "productname": {
+      "value": ""
+    },
+    "client": {
+      "value": ""
+    },
+    "environement": {
+      "value": ""
+    },
+    "skuName": {
+      "value": "F1"
+    }
   }
 }
