@@ -12,8 +12,8 @@ This Repo is meant to be used by **Infra/OPS** to autonomously deploy their infr
 
 ## IMPORTANT
 It requires a "library" (**globally** pipelined-shared variables) that define a client name, and a product name that must be linked in the deployment pipeline. And it must contain:
- - ClientID=Client Name 
- - ProductID=Product Name
+ - ClientID=Client Name (no spaces, lower case)
+ - ProductID=Product Name (no spaces, lower case)
  - sqladminUsername=The username for the SQL Server Database
 Also local (per-environment/stage) definitions of sql Database passwords
 i.e.: sqladminPass
@@ -30,10 +30,10 @@ This should include everything required to rapidly set up a deployment pipeline 
 2. [ ] Create an Azure Devops project
 3. [ ] Create a "OPS" Repo in your Azure Devops Project
 4. [ ] Unzip locally to your computer
-5. [ ] Upload the whole repo to your "OPS" Azure Devops project
+5. [ ] Upload the whole repo to your "OPS" Azure Devops project (alternatively, you can use the script in the /scripts directory, here)
 6. [ ] Go to your Azure Devops Project, and check your Pipelines, there should be a Pipeline/Build named "OPS" or Whatever your repo is named
-7. [ ] Run it, debug and amend it as needed. [ ] (as is , it should work)
-8. [ ] Create a Variable Group In Library, it mus include the three variables as stated above
+7. [ ] Run it, debug and amend it as needed. (as is , it should work)
+8. [ ] Create a Variable Group In Library, it must include the three variables as stated above
 9. [ ] Adjust the Variables to reflect your product and your clientname
 10. [ ] Create a new deploy pipeline, a bogus empty with a fake empty stage one (otherwise you cannot import another one)...silly but yeah...
 11. [ ] In the Deployment pipeline editor, under the little New caret on the left, hit **import**
@@ -55,5 +55,5 @@ This should include everything required to rapidly set up a deployment pipeline 
 27. [ ] Run and test the deployment pipeline
 
 # Todo
-Add a step to automate the download, the unzip and the reupload of the Github Repo to the Azure Devops GIT
+~~Add a step to automate the download, the unzip and the reupload of the Github Repo to the Azure Devops GIT~~
 
