@@ -24,10 +24,9 @@ This should include everything required to rapidly set up a deployment pipeline 
 
 ## Instructions
 
-**Usage** 
 
 **Usage** 
-1. [ ] Download the whole repo (as a zip from the clone menu)
+1. [ ] Follow [this guide](https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/) to install GIT and posh-git
 2. [ ] Create an Azure Devops project
 3. [ ] Create a "OPS" Repo in your Azure Devops Project
 4. [ ] Unzip locally to your computer
